@@ -240,8 +240,8 @@ margin-left: 5%;
 
   
 .amor {
-  width: 10%;
-  margin-left: 45%;
+  width: 15%;
+  margin-left: 43%;
   margin-top: 69%;
 }
   
@@ -251,7 +251,7 @@ margin-left: 5%;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #9a9a9a;
+    background-color: #ffe89e;
     z-index: 9999;
   
   }
@@ -267,7 +267,7 @@ margin-left: 5%;
     border: 4px solid #76bac20d; /* Color del círculo */
     border-top-color: transparent;
     border-radius: 50%;
-    animation: spin 5s linear infinite;
+    animation: spin 1s linear infinite;
   }
   
   @keyframes spin {
